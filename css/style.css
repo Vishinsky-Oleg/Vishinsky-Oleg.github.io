@@ -612,10 +612,6 @@ a.anchor {
 .text {
   font-size: 13px;
 }
-.prev,
-.next {
-  display: none;
-}
 .slideshow-container {
   max-width: 95vw;
 }
